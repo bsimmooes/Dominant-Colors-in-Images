@@ -6,4 +6,4 @@ The main objective in this colab notebook was to practice my studies in Cluster 
 
 https://colab.research.google.com/drive/1EzSJd8xUavggNAcJjGLHwF367t1fid7c?usp=sharing
 
-![image] (https://colab.research.google.com/drive/1EzSJd8xUavggNAcJjGLHwF367t1fid7c#scrollTo=o8jKTLIuhYRG&line=7&uniqifier=1)
+![download](https://user-images.githubusercontent.com/51026420/118905308-d8459500-b8f1-11eb-8b66-ae5a0d6e5cc0.png)
