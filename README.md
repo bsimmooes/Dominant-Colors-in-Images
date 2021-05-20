@@ -1,6 +1,6 @@
 # Dominant Colors in Images
 
-The main objective in this colab notebook was to practice my studies into Cluster Analysis in Python of DataCamp's Carrer Track Machine Learning Scientist with Python.
+The main objective in this colab notebook was to practice my studies in Cluster Analysis in Python from DataCamp's Carrer Track Machine Learning Scientist with Python.
 
 ## Discovering dominants colors in images using kmeans
 
